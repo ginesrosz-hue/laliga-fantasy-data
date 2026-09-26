@@ -1,6 +1,4607 @@
 {
-  "updated_at": "2026-09-26T16:47:13.963863",
+  "updated_at": "2026-09-26T16:55:40.506177",
   "date": "2026-09-26",
-  "total_players": 0,
-  "players": []
+  "total_players": 575,
+  "players": [
+    {
+      "name": "Lamine Yamal",
+      "market_value": 165406817,
+      "daily_change": 3330489,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Raphinha",
+      "market_value": 164251884,
+      "daily_change": 3313268,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Adeyemi",
+      "market_value": 72911941,
+      "daily_change": 2295879,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Grimaldo",
+      "market_value": 50174528,
+      "daily_change": 2221145,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Moleiro",
+      "market_value": 49195764,
+      "daily_change": 2093919,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Mbappé",
+      "market_value": 157412955,
+      "daily_change": 2041535,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Camello",
+      "market_value": 34040217,
+      "daily_change": 1972148,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Kang-In Lee",
+      "market_value": 73286439,
+      "daily_change": 1932768,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "J. David",
+      "market_value": 45332157,
+      "daily_change": 1924732,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Rodri",
+      "market_value": 76959587,
+      "daily_change": 1513002,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Natan",
+      "market_value": 43692795,
+      "daily_change": 1472865,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Cuti Romero",
+      "market_value": 43821560,
+      "daily_change": 1468153,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Álex Baena",
+      "market_value": 71523289,
+      "daily_change": 1447615,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Ez Abde",
+      "market_value": 36914743,
+      "daily_change": 1264969,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Á. Valles",
+      "market_value": 62935088,
+      "daily_change": 1260284,
+      "position": "POR",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Fer Niño",
+      "market_value": 20196845,
+      "daily_change": 1224831,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Giuliano",
+      "market_value": 44155094,
+      "daily_change": 1196704,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Diomande",
+      "market_value": 57038874,
+      "daily_change": 1163259,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Koski",
+      "market_value": 20873650,
+      "daily_change": 1077124,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Zaid Romero",
+      "market_value": 29749066,
+      "daily_change": 1024097,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Roberto",
+      "market_value": 44810028,
+      "daily_change": 1002263,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Marcos Llorente",
+      "market_value": 49466136,
+      "daily_change": 991736,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "C. Soler",
+      "market_value": 34307322,
+      "daily_change": 978114,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Arda Güler",
+      "market_value": 106898977,
+      "daily_change": 956886,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "M. Román",
+      "market_value": 18138929,
+      "daily_change": 858965,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Laporte",
+      "market_value": 45814123,
+      "daily_change": 815104,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Ángel Pérez",
+      "market_value": 29087610,
+      "daily_change": 811004,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Y. Zabiri",
+      "market_value": 20769250,
+      "daily_change": 752442,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Cancelo",
+      "market_value": 34647677,
+      "daily_change": 713310,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Sivera",
+      "market_value": 45645815,
+      "daily_change": 703309,
+      "position": "POR",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Antony",
+      "market_value": 61372526,
+      "daily_change": 675325,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Nico Williams",
+      "market_value": 59612614,
+      "daily_change": 669492,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Fofana",
+      "market_value": 19053959,
+      "daily_change": 666618,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Hancko",
+      "market_value": 41723044,
+      "daily_change": 657889,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Navarro",
+      "market_value": 13884146,
+      "daily_change": 650890,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Sucic",
+      "market_value": 15306972,
+      "daily_change": 643466,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Budimir",
+      "market_value": 62373514,
+      "daily_change": 631481,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Ilaix Moriba",
+      "market_value": 11761042,
+      "daily_change": 626629,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Ayoze",
+      "market_value": 18669424,
+      "daily_change": 604115,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Xavi Espart",
+      "market_value": 42721781,
+      "daily_change": 567900,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Ionut Radu",
+      "market_value": 45060185,
+      "daily_change": 561543,
+      "position": "POR",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Cucho",
+      "market_value": 35707254,
+      "daily_change": 558546,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Juan Iglesias",
+      "market_value": 19395462,
+      "daily_change": 537780,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Oblak",
+      "market_value": 49384239,
+      "daily_change": 533237,
+      "position": "POR",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Mario Soriano",
+      "market_value": 31413877,
+      "daily_change": 529802,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Miguel Sierra",
+      "market_value": 9944798,
+      "daily_change": 508701,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Yoel Lago",
+      "market_value": 10303231,
+      "daily_change": 499189,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Djene",
+      "market_value": 20666786,
+      "daily_change": 488343,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Giménez",
+      "market_value": 13713624,
+      "daily_change": 482859,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "R. Terrats",
+      "market_value": 11500656,
+      "daily_change": 482752,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "David Soria",
+      "market_value": 38874123,
+      "daily_change": 451676,
+      "position": "POR",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Marc Roca",
+      "market_value": 17614010,
+      "daily_change": 441692,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Renato Veiga",
+      "market_value": 25144002,
+      "daily_change": 428631,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Lucas Boyé",
+      "market_value": 33426139,
+      "daily_change": 425655,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Deossa",
+      "market_value": 5903719,
+      "daily_change": 417108,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Jonny Otto",
+      "market_value": 17251506,
+      "daily_change": 396922,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Paredes",
+      "market_value": 15261554,
+      "daily_change": 393749,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Rüdiger",
+      "market_value": 20154794,
+      "daily_change": 371167,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Barrenetxea",
+      "market_value": 21476381,
+      "daily_change": 360260,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Agirrezabala",
+      "market_value": 25231585,
+      "daily_change": 316489,
+      "position": "POR",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Yuri",
+      "market_value": 17268797,
+      "daily_change": 313136,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Agoumé",
+      "market_value": 13752479,
+      "daily_change": 307636,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Unai Lopez",
+      "market_value": 17920415,
+      "daily_change": 295691,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Pepelu",
+      "market_value": 12833052,
+      "daily_change": 288809,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "A. Castrín",
+      "market_value": 7862355,
+      "daily_change": 278281,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Ibañez",
+      "market_value": 13934560,
+      "daily_change": 270734,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "A. Herrero",
+      "market_value": 19703500,
+      "daily_change": 244254,
+      "position": "POR",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Bellerín",
+      "market_value": 18445081,
+      "daily_change": 242803,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "El Hilali",
+      "market_value": 15662752,
+      "daily_change": 227434,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "I. Akhomach",
+      "market_value": 3531351,
+      "daily_change": 225213,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Gulácsi",
+      "market_value": 4779067,
+      "daily_change": 213524,
+      "position": "POR",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Suazo",
+      "market_value": 7221725,
+      "daily_change": 187427,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Mariano",
+      "market_value": 22039384,
+      "daily_change": 180608,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "H. González",
+      "market_value": 2776916,
+      "daily_change": 169117,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "De Galarreta",
+      "market_value": 17598924,
+      "daily_change": 145381,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Ferran Jutglà",
+      "market_value": 10147044,
+      "daily_change": 143513,
+      "position": "DEL",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Johnny",
+      "market_value": 3828793,
+      "daily_change": 138623,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Valentín Gómez",
+      "market_value": 2386629,
+      "daily_change": 130075,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Luismi Cruz",
+      "market_value": 11318727,
+      "daily_change": 126280,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Mojica",
+      "market_value": 15080382,
+      "daily_change": 125124,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "T. Morente",
+      "market_value": 3522116,
+      "daily_change": 112026,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Vlachodimos",
+      "market_value": 32792018,
+      "daily_change": 95617,
+      "position": "POR",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Quagliata",
+      "market_value": 4524539,
+      "daily_change": 89846,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Freeman",
+      "market_value": 1795147,
+      "daily_change": 87216,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Hugo Alvarez",
+      "market_value": 2351296,
+      "daily_change": 79257,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "I. Romero",
+      "market_value": 6511826,
+      "daily_change": 76865,
+      "position": "DEL",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Danjuma",
+      "market_value": 4829509,
+      "daily_change": 75520,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Andrés Garcia",
+      "market_value": 7769038,
+      "daily_change": 66759,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Iván Azón",
+      "market_value": 4306702,
+      "daily_change": 60252,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Cepeda",
+      "market_value": 1734900,
+      "daily_change": 50985,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Germán V.",
+      "market_value": 13440065,
+      "daily_change": 43142,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Recio",
+      "market_value": 2572537,
+      "daily_change": 42128,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Ochieng",
+      "market_value": 1370085,
+      "daily_change": 38889,
+      "position": "DEL",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Livakovic",
+      "market_value": 2739717,
+      "daily_change": 38293,
+      "position": "POR",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Pedrosa",
+      "market_value": 2723584,
+      "daily_change": 37071,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Satriano",
+      "market_value": 18734810,
+      "daily_change": 36858,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Pablo Durán",
+      "market_value": 887728,
+      "daily_change": 32582,
+      "position": "DEL",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Mayol",
+      "market_value": 870661,
+      "daily_change": 27188,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "M. Dituro",
+      "market_value": 9793101,
+      "daily_change": 24479,
+      "position": "POR",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Aitor Fdez",
+      "market_value": 615420,
+      "daily_change": 23372,
+      "position": "POR",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Dotor",
+      "market_value": 5068952,
+      "daily_change": 21700,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Kike Salas",
+      "market_value": 12137553,
+      "daily_change": 19993,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "R. Brugué",
+      "market_value": 5643444,
+      "daily_change": 16689,
+      "position": "DEL",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Marcos",
+      "market_value": 1416232,
+      "daily_change": 13819,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Álvaro Núñez",
+      "market_value": 2963329,
+      "daily_change": 12890,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Valentini",
+      "market_value": 692925,
+      "daily_change": 9181,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Revivo",
+      "market_value": 3628694,
+      "daily_change": 8182,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Pastor",
+      "market_value": 426727,
+      "daily_change": 2689,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Carlos Lopez",
+      "market_value": 428496,
+      "daily_change": 2615,
+      "position": "POR",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Egiluz",
+      "market_value": 433644,
+      "daily_change": 2401,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Haitam",
+      "market_value": 434548,
+      "daily_change": 2363,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Maroan",
+      "market_value": 439466,
+      "daily_change": 2158,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Rubén S.",
+      "market_value": 441891,
+      "daily_change": 2057,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Julio Díaz",
+      "market_value": 442578,
+      "daily_change": 2029,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "C. Rivero",
+      "market_value": 447924,
+      "daily_change": 1806,
+      "position": "POR",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Tenés",
+      "market_value": 449918,
+      "daily_change": 1723,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Nordin Al-Lal",
+      "market_value": 450968,
+      "daily_change": 1679,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Mañas",
+      "market_value": 456747,
+      "daily_change": 1438,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "A. Fortuño",
+      "market_value": 457072,
+      "daily_change": 1425,
+      "position": "POR",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Beitia",
+      "market_value": 457056,
+      "daily_change": 1425,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Y. Santiago",
+      "market_value": 457066,
+      "daily_change": 1425,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "A. Osambela",
+      "market_value": 458044,
+      "daily_change": 1384,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Diatta",
+      "market_value": 459582,
+      "daily_change": 1320,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Llorenç",
+      "market_value": 461703,
+      "daily_change": 1232,
+      "position": "POR",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Alonso",
+      "market_value": 461686,
+      "daily_change": 1232,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Ruben",
+      "market_value": 462500,
+      "daily_change": 1199,
+      "position": "POR",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Juanmi",
+      "market_value": 463539,
+      "daily_change": 1155,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Odriozola",
+      "market_value": 466703,
+      "daily_change": 1023,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Germán",
+      "market_value": 467344,
+      "daily_change": 997,
+      "position": "POR",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "J. Ives Valou",
+      "market_value": 468833,
+      "daily_change": 935,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Iker Muñoz",
+      "market_value": 468833,
+      "daily_change": 935,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Edu Altozano",
+      "market_value": 468833,
+      "daily_change": 935,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "De Las Sias",
+      "market_value": 468833,
+      "daily_change": 935,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Swiderski",
+      "market_value": 469160,
+      "daily_change": 921,
+      "position": "POR",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Xanet Olaiz",
+      "market_value": 469899,
+      "daily_change": 890,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "F. Garcés",
+      "market_value": 470075,
+      "daily_change": 883,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Mauro",
+      "market_value": 473714,
+      "daily_change": 731,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Marcao",
+      "market_value": 473985,
+      "daily_change": 720,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Miguel Cubo",
+      "market_value": 474844,
+      "daily_change": 684,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Cestero",
+      "market_value": 482082,
+      "daily_change": 383,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "A. Vallecillo",
+      "market_value": 483017,
+      "daily_change": 344,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Ibra Drj",
+      "market_value": 483417,
+      "daily_change": 327,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Timera",
+      "market_value": 483417,
+      "daily_change": 327,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Caste",
+      "market_value": 483417,
+      "daily_change": 327,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Jose Angel",
+      "market_value": 483417,
+      "daily_change": 327,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Lozano",
+      "market_value": 483417,
+      "daily_change": 327,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Galdin",
+      "market_value": 483479,
+      "daily_change": 324,
+      "position": "POR",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Santos",
+      "market_value": 484108,
+      "daily_change": 298,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Panach",
+      "market_value": 484213,
+      "daily_change": 294,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Fran González",
+      "market_value": 486201,
+      "daily_change": 211,
+      "position": "POR",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Letacek",
+      "market_value": 486570,
+      "daily_change": 196,
+      "position": "POR",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Risco",
+      "market_value": 487636,
+      "daily_change": 151,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Ferrer",
+      "market_value": 488654,
+      "daily_change": 109,
+      "position": "POR",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Comas",
+      "market_value": 488739,
+      "daily_change": 105,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "F. Mendy",
+      "market_value": 493224,
+      "daily_change": -82,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Iñigo",
+      "market_value": 496669,
+      "daily_change": -225,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "D. Martínez",
+      "market_value": 497570,
+      "daily_change": -263,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Morcillo",
+      "market_value": 770306,
+      "daily_change": -275,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Joselu",
+      "market_value": 500407,
+      "daily_change": -381,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Adrián Molina",
+      "market_value": 500407,
+      "daily_change": -381,
+      "position": "POR",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Lobete",
+      "market_value": 501277,
+      "daily_change": -417,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Arana",
+      "market_value": 503351,
+      "daily_change": -504,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Fran Pérez",
+      "market_value": 503542,
+      "daily_change": -512,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Ibra",
+      "market_value": 505148,
+      "daily_change": -579,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Marco Román",
+      "market_value": 505148,
+      "daily_change": -579,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Manel Usedo",
+      "market_value": 505148,
+      "daily_change": -579,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Esquivel",
+      "market_value": 506871,
+      "daily_change": -650,
+      "position": "POR",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Gorka Carrera",
+      "market_value": 507104,
+      "daily_change": -660,
+      "position": "DEL",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Barzic",
+      "market_value": 507315,
+      "daily_change": -669,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Manu Bueno",
+      "market_value": 508694,
+      "daily_change": -726,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Paco Cortes",
+      "market_value": 509198,
+      "daily_change": -747,
+      "position": "DEL",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Cabello",
+      "market_value": 509625,
+      "daily_change": -765,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Ramon",
+      "market_value": 510019,
+      "daily_change": -781,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "A. Iturbe",
+      "market_value": 512591,
+      "daily_change": -889,
+      "position": "POR",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Obed Vargas",
+      "market_value": 512712,
+      "daily_change": -894,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Luis García",
+      "market_value": 516173,
+      "daily_change": -1038,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Sánchez Flores",
+      "market_value": 516173,
+      "daily_change": -1038,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Cardoso",
+      "market_value": 517436,
+      "daily_change": -1091,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Nico Serrano",
+      "market_value": 521209,
+      "daily_change": -1248,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Bauza",
+      "market_value": 526881,
+      "daily_change": -1484,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Marc Santos",
+      "market_value": 526881,
+      "daily_change": -1484,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Novoa",
+      "market_value": 528862,
+      "daily_change": -1567,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Antañón",
+      "market_value": 531111,
+      "daily_change": -1660,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Becerra",
+      "market_value": 531111,
+      "daily_change": -1660,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Kevin",
+      "market_value": 533597,
+      "daily_change": -1764,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "José Alberto",
+      "market_value": 535312,
+      "daily_change": -1835,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Iván Villar",
+      "market_value": 539277,
+      "daily_change": -2001,
+      "position": "POR",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Marchal",
+      "market_value": 541879,
+      "daily_change": -2109,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Burcio",
+      "market_value": 543189,
+      "daily_change": -2164,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Monreal",
+      "market_value": 543189,
+      "daily_change": -2164,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Diallo",
+      "market_value": 543820,
+      "daily_change": -2190,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Riki",
+      "market_value": 545063,
+      "daily_change": -2242,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Alberto Calatrava",
+      "market_value": 548611,
+      "daily_change": -2389,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Cheikh Thiam",
+      "market_value": 549537,
+      "daily_change": -2428,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "A. Rodriguez",
+      "market_value": 550098,
+      "daily_change": -2451,
+      "position": "POR",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Djalo",
+      "market_value": 551446,
+      "daily_change": -2508,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Zakharyan",
+      "market_value": 553624,
+      "daily_change": -2598,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Rayane",
+      "market_value": 553787,
+      "daily_change": -2605,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Diaby",
+      "market_value": 557512,
+      "daily_change": -2760,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "P. Campos",
+      "market_value": 559943,
+      "daily_change": -2862,
+      "position": "POR",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Alexis Ciria",
+      "market_value": 561201,
+      "daily_change": -2914,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Josan",
+      "market_value": 562963,
+      "daily_change": -2987,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Manolo González",
+      "market_value": 565727,
+      "daily_change": -3103,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Guevara",
+      "market_value": 566760,
+      "daily_change": -3146,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Brian Fariñas",
+      "market_value": 572505,
+      "daily_change": -3385,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Balliu",
+      "market_value": 572820,
+      "daily_change": -3398,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Carlos Macià",
+      "market_value": 576417,
+      "daily_change": -3548,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Grady Diangana",
+      "market_value": 576606,
+      "daily_change": -3556,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Jofre",
+      "market_value": 577324,
+      "daily_change": -3586,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Pelayo",
+      "market_value": 580623,
+      "daily_change": -3723,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Á. Padilla",
+      "market_value": 586398,
+      "daily_change": -3964,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Otu Jr",
+      "market_value": 590856,
+      "daily_change": -4150,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Luís Castro",
+      "market_value": 593056,
+      "daily_change": -4241,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Funes",
+      "market_value": 595897,
+      "daily_change": -4360,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "J. Vertrouwd",
+      "market_value": 596723,
+      "daily_change": -4394,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Costa",
+      "market_value": 600448,
+      "daily_change": -4549,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "A. Bonel",
+      "market_value": 602533,
+      "daily_change": -4636,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Otorbi",
+      "market_value": 604128,
+      "daily_change": -4703,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Jauregi",
+      "market_value": 604190,
+      "daily_change": -4705,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Dani Barcia",
+      "market_value": 606406,
+      "daily_change": -4798,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Javi Rueda",
+      "market_value": 5425008,
+      "daily_change": -4928,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Ramis",
+      "market_value": 624884,
+      "daily_change": -5567,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Aihen",
+      "market_value": 635438,
+      "daily_change": -6007,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Prados",
+      "market_value": 637619,
+      "daily_change": -6098,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Hugo Pérez",
+      "market_value": 648761,
+      "daily_change": -6562,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Marín",
+      "market_value": 651959,
+      "daily_change": -6696,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Saba Sazonov",
+      "market_value": 655221,
+      "daily_change": -6832,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Martín Anselmi",
+      "market_value": 657922,
+      "daily_change": -6944,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Beñat",
+      "market_value": 657922,
+      "daily_change": -6944,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Antonio Hidalgo",
+      "market_value": 661600,
+      "daily_change": -7097,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Salinas",
+      "market_value": 906346,
+      "daily_change": -7184,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Raba",
+      "market_value": 665732,
+      "daily_change": -7269,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Padilla",
+      "market_value": 666256,
+      "daily_change": -7291,
+      "position": "POR",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "J. Berrocal",
+      "market_value": 672688,
+      "daily_change": -7559,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Óscar López",
+      "market_value": 673408,
+      "daily_change": -7589,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Nizar El Jmili",
+      "market_value": 673408,
+      "daily_change": -7589,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Jaume Durà",
+      "market_value": 673408,
+      "daily_change": -7589,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Osorio",
+      "market_value": 681928,
+      "daily_change": -7944,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Copete",
+      "market_value": 708512,
+      "daily_change": -9052,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Marrero",
+      "market_value": 710584,
+      "daily_change": -9138,
+      "position": "POR",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "El Abdellaoui",
+      "market_value": 719977,
+      "daily_change": -9530,
+      "position": "DEL",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Hugo Sotelo",
+      "market_value": 723948,
+      "daily_change": -9695,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Guliashvili",
+      "market_value": 739661,
+      "daily_change": -10350,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Rockson",
+      "market_value": 741207,
+      "daily_change": -10414,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Murillo",
+      "market_value": 743812,
+      "daily_change": -10523,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Diego López",
+      "market_value": 750587,
+      "daily_change": -10805,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "G. Bouaré",
+      "market_value": 757202,
+      "daily_change": -11081,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "E. Ponce",
+      "market_value": 771005,
+      "daily_change": -11656,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Arnau Ortiz",
+      "market_value": 782077,
+      "daily_change": -12117,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Requena",
+      "market_value": 784279,
+      "daily_change": -12209,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Youssef",
+      "market_value": 907811,
+      "daily_change": -12707,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Aitor Ruibal",
+      "market_value": 797292,
+      "daily_change": -12751,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Iñigo Perez",
+      "market_value": 797295,
+      "daily_change": -12751,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Claudio Giraldez",
+      "market_value": 799314,
+      "daily_change": -12835,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Foulquier",
+      "market_value": 800290,
+      "daily_change": -12876,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Víctor G.",
+      "market_value": 803301,
+      "daily_change": -13002,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Nteka",
+      "market_value": 805181,
+      "daily_change": -13080,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "R. Mendoza",
+      "market_value": 809660,
+      "daily_change": -13266,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Eddahchouri",
+      "market_value": 821646,
+      "daily_change": -13766,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Á. Ortiz",
+      "market_value": 834996,
+      "daily_change": -14322,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Bil Nsongo",
+      "market_value": 7616809,
+      "daily_change": -14443,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Martim Neto",
+      "market_value": 839062,
+      "daily_change": -14492,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Córdoba",
+      "market_value": 844955,
+      "daily_change": -14737,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "D. Villares",
+      "market_value": 1003624,
+      "daily_change": -14801,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Ali Houary",
+      "market_value": 860096,
+      "daily_change": -15368,
+      "position": "DEL",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Pol Lozano",
+      "market_value": 872450,
+      "daily_change": -15883,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Cardona",
+      "market_value": 1912535,
+      "daily_change": -16075,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "RDT",
+      "market_value": 886030,
+      "daily_change": -16449,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Juani",
+      "market_value": 886030,
+      "daily_change": -16449,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Javier Gil",
+      "market_value": 886030,
+      "daily_change": -16449,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Aznou",
+      "market_value": 886589,
+      "daily_change": -16472,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Gorosabel",
+      "market_value": 888024,
+      "daily_change": -16532,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Van Oevelen",
+      "market_value": 889915,
+      "daily_change": -16610,
+      "position": "POR",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Pedro Felipe",
+      "market_value": 895732,
+      "daily_change": -16853,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Iker Losada",
+      "market_value": 897939,
+      "daily_change": -16945,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Bayindir",
+      "market_value": 901947,
+      "daily_change": -17112,
+      "position": "POR",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Herrera",
+      "market_value": 5219295,
+      "daily_change": -17849,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Protesoni",
+      "market_value": 920150,
+      "daily_change": -17870,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Niño",
+      "market_value": 921207,
+      "daily_change": -17914,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "F. Calero",
+      "market_value": 921857,
+      "daily_change": -17941,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Bardghji",
+      "market_value": 927617,
+      "daily_change": -18181,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Yanis Musuayi",
+      "market_value": 945167,
+      "daily_change": -18913,
+      "position": "DEL",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "E. Militão",
+      "market_value": 4311103,
+      "daily_change": -19103,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "O. Rey",
+      "market_value": 2248985,
+      "daily_change": -19263,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Morante",
+      "market_value": 956903,
+      "daily_change": -19402,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Johaneko",
+      "market_value": 1093364,
+      "daily_change": -19602,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Boselli",
+      "market_value": 968256,
+      "daily_change": -19875,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Lunin",
+      "market_value": 1013284,
+      "daily_change": -20270,
+      "position": "POR",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Lemar",
+      "market_value": 4059391,
+      "daily_change": -20563,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Pedro Díaz",
+      "market_value": 1020521,
+      "daily_change": -20747,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Denis Suárez",
+      "market_value": 2884886,
+      "daily_change": -20984,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Miguel Rodríguez",
+      "market_value": 999150,
+      "daily_change": -21162,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Fidalgo",
+      "market_value": 1001375,
+      "daily_change": -21255,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Oluwaseyi",
+      "market_value": 1003732,
+      "daily_change": -21353,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Eriksson",
+      "market_value": 1017851,
+      "daily_change": -21941,
+      "position": "POR",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Almeida",
+      "market_value": 1022363,
+      "daily_change": -22129,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Moha Achraf",
+      "market_value": 1027777,
+      "daily_change": -22355,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Diego Conde",
+      "market_value": 1038253,
+      "daily_change": -22791,
+      "position": "POR",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Kike García",
+      "market_value": 1054969,
+      "daily_change": -23488,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Raúl",
+      "market_value": 1348051,
+      "daily_change": -23667,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Tsitaishvili",
+      "market_value": 1069126,
+      "daily_change": -24078,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Iker Luque",
+      "market_value": 1076781,
+      "daily_change": -24397,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "D. Cárdenas",
+      "market_value": 1077565,
+      "daily_change": -24429,
+      "position": "POR",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Matarazzo",
+      "market_value": 1079762,
+      "daily_change": -24521,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Asencio",
+      "market_value": 1574601,
+      "daily_change": -25635,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "B. Mayoral",
+      "market_value": 1109282,
+      "daily_change": -25751,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Rodrygo",
+      "market_value": 1382953,
+      "daily_change": -25984,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Szczesny",
+      "market_value": 1188783,
+      "daily_change": -26084,
+      "position": "POR",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Facu",
+      "market_value": 1131807,
+      "daily_change": -26689,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Luiz Felipe",
+      "market_value": 1132011,
+      "daily_change": -26698,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Sergio",
+      "market_value": 1136002,
+      "daily_change": -26864,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Redondo",
+      "market_value": 1136562,
+      "daily_change": -26887,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Davinchi",
+      "market_value": 1142786,
+      "daily_change": -27147,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "M. Loureiro",
+      "market_value": 1854440,
+      "daily_change": -27185,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Ifeanyi Ndukwe",
+      "market_value": 1144650,
+      "daily_change": -27224,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Herrando",
+      "market_value": 1146651,
+      "daily_change": -27308,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "H. Rincón",
+      "market_value": 1181694,
+      "daily_change": -28768,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Torró",
+      "market_value": 1185487,
+      "daily_change": -28926,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Kike Barja",
+      "market_value": 1324282,
+      "daily_change": -29141,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Manuel Pellegrini",
+      "market_value": 1193096,
+      "daily_change": -29243,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Pablo Ramón",
+      "market_value": 1841065,
+      "daily_change": -29301,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Gueye",
+      "market_value": 34542456,
+      "daily_change": -30566,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Puado",
+      "market_value": 2008793,
+      "daily_change": -30626,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Junior",
+      "market_value": 1240351,
+      "daily_change": -31212,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Iker Muñoz",
+      "market_value": 1787466,
+      "daily_change": -31307,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Alemâo",
+      "market_value": 1249026,
+      "daily_change": -31573,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Jeremy Toljan",
+      "market_value": 1638369,
+      "daily_change": -32221,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "J. Vázquez",
+      "market_value": 1392112,
+      "daily_change": -32403,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Mantilla",
+      "market_value": 1359717,
+      "daily_change": -34667,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Pacheco",
+      "market_value": 1354722,
+      "daily_change": -35977,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "De Haas",
+      "market_value": 3745420,
+      "daily_change": -36694,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Mella",
+      "market_value": 1442735,
+      "daily_change": -37082,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Saliba",
+      "market_value": 6392111,
+      "daily_change": -37445,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Francho",
+      "market_value": 1885972,
+      "daily_change": -37824,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Vanja Drkusic",
+      "market_value": 1422360,
+      "daily_change": -38796,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "A. Rebbach",
+      "market_value": 5067395,
+      "daily_change": -39496,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Axel Tape",
+      "market_value": 1441272,
+      "daily_change": -39584,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Faye",
+      "market_value": 1469118,
+      "daily_change": -40744,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Emil Audero",
+      "market_value": 5012767,
+      "daily_change": -41458,
+      "position": "POR",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Maguette",
+      "market_value": 1526802,
+      "daily_change": -41663,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Kiko F.",
+      "market_value": 1522559,
+      "daily_change": -42971,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "J. Musso",
+      "market_value": 1633729,
+      "daily_change": -43020,
+      "position": "POR",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Rego",
+      "market_value": 1533132,
+      "daily_change": -43411,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "A. Ferllo",
+      "market_value": 1542239,
+      "daily_change": -43791,
+      "position": "POR",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Carmona",
+      "market_value": 1550061,
+      "daily_change": -44117,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Simeone",
+      "market_value": 1557788,
+      "daily_change": -44438,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Guillén",
+      "market_value": 1559257,
+      "daily_change": -44500,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Nacho Perez",
+      "market_value": 1963834,
+      "daily_change": -44657,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Thiago",
+      "market_value": 1819866,
+      "daily_change": -45264,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Mikel Rodriguez",
+      "market_value": 1578620,
+      "daily_change": -45307,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Dieng",
+      "market_value": 1677527,
+      "daily_change": -45968,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Kumbulla",
+      "market_value": 1609543,
+      "daily_change": -46595,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "J. Dominguez",
+      "market_value": 1619956,
+      "daily_change": -47029,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "V. Rosier",
+      "market_value": 1634008,
+      "daily_change": -47229,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Félix Correia",
+      "market_value": 5261767,
+      "daily_change": -47976,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Ximo Navarro",
+      "market_value": 4391432,
+      "daily_change": -48486,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Vivian",
+      "market_value": 3426863,
+      "daily_change": -48666,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "R.P. Bigas",
+      "market_value": 1725603,
+      "daily_change": -49313,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Pau Navarro",
+      "market_value": 3519924,
+      "daily_change": -50660,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Óscar Valentín",
+      "market_value": 2936984,
+      "daily_change": -51288,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Diego Rico",
+      "market_value": 1726506,
+      "daily_change": -51468,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Alfon",
+      "market_value": 1736517,
+      "daily_change": -51886,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Gorrotxa",
+      "market_value": 2166267,
+      "daily_change": -52241,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Peque",
+      "market_value": 1871709,
+      "daily_change": -52743,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Manu Hernando",
+      "market_value": 1884607,
+      "daily_change": -54919,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Edin Terzic",
+      "market_value": 1811028,
+      "daily_change": -54990,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Rafa Rodríguez",
+      "market_value": 1980852,
+      "daily_change": -55391,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Aleñá",
+      "market_value": 2531262,
+      "daily_change": -55733,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Mario Martín",
+      "market_value": 2073038,
+      "daily_change": -57624,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Ugrinic",
+      "market_value": 3075533,
+      "daily_change": -57860,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Aaron",
+      "market_value": 1927909,
+      "daily_change": -58243,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Hugo Duro",
+      "market_value": 4370240,
+      "daily_change": -58726,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Abdelkarim",
+      "market_value": 2324403,
+      "daily_change": -58907,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Bright Ede",
+      "market_value": 3347529,
+      "daily_change": -61864,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "V. Chust",
+      "market_value": 3935129,
+      "daily_change": -62433,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Driouech",
+      "market_value": 2137847,
+      "daily_change": -62492,
+      "position": "DEL",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Arguibide",
+      "market_value": 3059816,
+      "daily_change": -63047,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Mujaid Sadick",
+      "market_value": 2885351,
+      "daily_change": -63302,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Moi Gómez",
+      "market_value": 2778100,
+      "daily_change": -64984,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Joaquín",
+      "market_value": 3687540,
+      "daily_change": -65176,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Matteo Prati",
+      "market_value": 2281033,
+      "daily_change": -65954,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Endrick",
+      "market_value": 2774000,
+      "daily_change": -67272,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Hector Fort",
+      "market_value": 2687845,
+      "daily_change": -68127,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Ratkov",
+      "market_value": 2250493,
+      "daily_change": -68482,
+      "position": "DEL",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Diakhaby",
+      "market_value": 2391859,
+      "daily_change": -69170,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Cáceres",
+      "market_value": 4463376,
+      "daily_change": -69326,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Areso",
+      "market_value": 3778745,
+      "daily_change": -71874,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Asp Jensen",
+      "market_value": 3202070,
+      "daily_change": -72012,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Belocian",
+      "market_value": 2615766,
+      "daily_change": -72213,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Sadiq",
+      "market_value": 2447178,
+      "daily_change": -73632,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Gerenabarrena",
+      "market_value": 3493948,
+      "daily_change": -75183,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Q. Hartman",
+      "market_value": 2721819,
+      "daily_change": -76498,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "C. Puga",
+      "market_value": 2923825,
+      "daily_change": -80254,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Izan M.",
+      "market_value": 3070972,
+      "daily_change": -80893,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Buonanotte",
+      "market_value": 3054944,
+      "daily_change": -81580,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Hansi Flick",
+      "market_value": 3439318,
+      "daily_change": -81655,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Moscardo",
+      "market_value": 2849655,
+      "daily_change": -85233,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Williot",
+      "market_value": 3764798,
+      "daily_change": -86168,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Villalibre",
+      "market_value": 2989020,
+      "daily_change": -86288,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Rafita",
+      "market_value": 7171924,
+      "daily_change": -86689,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "A. Abqar",
+      "market_value": 2917753,
+      "daily_change": -89387,
+      "position": "DEF",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "B. Sangare",
+      "market_value": 3031291,
+      "daily_change": -89961,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "M. Aguado",
+      "market_value": 3147096,
+      "daily_change": -90347,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Carreira",
+      "market_value": 7512534,
+      "daily_change": -91302,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Pablo García",
+      "market_value": 7949970,
+      "daily_change": -92345,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Urko",
+      "market_value": 3816932,
+      "daily_change": -92648,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Pere Milla",
+      "market_value": 3332524,
+      "daily_change": -92690,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "P. Martínez",
+      "market_value": 4023410,
+      "daily_change": -93994,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Gudelj",
+      "market_value": 5472850,
+      "daily_change": -95993,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "A. Alti",
+      "market_value": 3558638,
+      "daily_change": -96402,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Riedel",
+      "market_value": 5330735,
+      "daily_change": -99331,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Hinojo",
+      "market_value": 4090119,
+      "daily_change": -102223,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Rioja",
+      "market_value": 4637096,
+      "daily_change": -104917,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Koke",
+      "market_value": 15864096,
+      "daily_change": -105901,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Isaac",
+      "market_value": 4668836,
+      "daily_change": -106065,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Einar",
+      "market_value": 5147719,
+      "daily_change": -106260,
+      "position": "DEF",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Manu Sánchez",
+      "market_value": 4569155,
+      "daily_change": -107343,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Guridi",
+      "market_value": 6214757,
+      "daily_change": -107420,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Ejuke",
+      "market_value": 5347490,
+      "daily_change": -107855,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Maffeo",
+      "market_value": 5185808,
+      "daily_change": -110440,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "G. Villar",
+      "market_value": 9582517,
+      "daily_change": -111494,
+      "position": "MED",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Bardeli",
+      "market_value": 8156482,
+      "daily_change": -120171,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Kochorashvili",
+      "market_value": 5618356,
+      "daily_change": -121287,
+      "position": "MED",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Thiago Pitarch",
+      "market_value": 4188603,
+      "daily_change": -121657,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Guedes",
+      "market_value": 15979584,
+      "daily_change": -122010,
+      "position": "DEL",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Lomonaco",
+      "market_value": 4270169,
+      "daily_change": -126628,
+      "position": "DEF",
+      "team": "Elche",
+      "photo_url": null
+    },
+    {
+      "name": "Gayá",
+      "market_value": 7174457,
+      "daily_change": -127178,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Mourinho",
+      "market_value": 3839865,
+      "daily_change": -128384,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Cala",
+      "market_value": 5087931,
+      "daily_change": -130293,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Peio Canales",
+      "market_value": 5438522,
+      "daily_change": -131113,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Jorge Salinas",
+      "market_value": 6018973,
+      "daily_change": -132005,
+      "position": "DEF",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Iago Aspas",
+      "market_value": 4777481,
+      "daily_change": -135802,
+      "position": "DEL",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Cajuste",
+      "market_value": 4399643,
+      "daily_change": -136154,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Moncayola",
+      "market_value": 6351007,
+      "daily_change": -136232,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Iván Martín",
+      "market_value": 6584585,
+      "daily_change": -137020,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Le Normand",
+      "market_value": 10145195,
+      "daily_change": -137935,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Isi",
+      "market_value": 7843928,
+      "daily_change": -147307,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Dani Lorenzo",
+      "market_value": 10077535,
+      "daily_change": -148249,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Yeray",
+      "market_value": 6173875,
+      "daily_change": -151081,
+      "position": "DEF",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Dubasin",
+      "market_value": 5358223,
+      "daily_change": -151123,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Juan Cruz",
+      "market_value": 5599867,
+      "daily_change": -152270,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Olasagasti",
+      "market_value": 8514724,
+      "daily_change": -154434,
+      "position": "MED",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Turrientes",
+      "market_value": 5956973,
+      "daily_change": -154728,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Javi Galán",
+      "market_value": 6479812,
+      "daily_change": -158122,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Brahim",
+      "market_value": 6367888,
+      "daily_change": -162903,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Sato",
+      "market_value": 5472093,
+      "daily_change": -163991,
+      "position": "DEL",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Javi Hernández",
+      "market_value": 16514553,
+      "daily_change": -164097,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Oskarsson",
+      "market_value": 5597741,
+      "daily_change": -164531,
+      "position": "DEL",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Camavinga",
+      "market_value": 7287645,
+      "daily_change": -167355,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Sangante",
+      "market_value": 6309738,
+      "daily_change": -169831,
+      "position": "DEF",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "M. Casadó",
+      "market_value": 6010423,
+      "daily_change": -172121,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Uche",
+      "market_value": 5579312,
+      "daily_change": -172671,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Cabrera",
+      "market_value": 10361609,
+      "daily_change": -176522,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Á. Carreras",
+      "market_value": 8461542,
+      "daily_change": -176738,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Nuñez",
+      "market_value": 8833878,
+      "daily_change": -182232,
+      "position": "DEF",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Dimitrievski",
+      "market_value": 21086660,
+      "daily_change": -184481,
+      "position": "POR",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Angeliño",
+      "market_value": 6081321,
+      "daily_change": -184653,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Javi Rodríguez",
+      "market_value": 6475039,
+      "daily_change": -187065,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Guruzeta",
+      "market_value": 6279384,
+      "daily_change": -188302,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Sergio Gómez",
+      "market_value": 15798511,
+      "daily_change": -188343,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Riquelme",
+      "market_value": 18565078,
+      "daily_change": -191654,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Aimar",
+      "market_value": 6750073,
+      "daily_change": -192289,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Buchanan",
+      "market_value": 9424797,
+      "daily_change": -192623,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Llorente ",
+      "market_value": 6708242,
+      "daily_change": -192926,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Raúl Moro",
+      "market_value": 6308986,
+      "daily_change": -195052,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Sorloth",
+      "market_value": 7235114,
+      "daily_change": -196153,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Berenguer",
+      "market_value": 10342728,
+      "daily_change": -198658,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Tárrega",
+      "market_value": 6539854,
+      "daily_change": -200421,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "F. De Jong",
+      "market_value": 7710031,
+      "daily_change": -203860,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Abel Bretones",
+      "market_value": 8486818,
+      "daily_change": -204525,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Guido Rodríguez",
+      "market_value": 12995468,
+      "daily_change": -207342,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Christensen",
+      "market_value": 7327983,
+      "daily_change": -209922,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Robbie Ure",
+      "market_value": 8973715,
+      "daily_change": -220925,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Carlos Espí",
+      "market_value": 13077670,
+      "daily_change": -221860,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Starfelt",
+      "market_value": 7914103,
+      "daily_change": -222256,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Del Castillo",
+      "market_value": 7351767,
+      "daily_change": -226217,
+      "position": "DEL",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Arnau",
+      "market_value": 7577104,
+      "daily_change": -227771,
+      "position": "DEF",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Vargas",
+      "market_value": 7680697,
+      "daily_change": -231176,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Mangala",
+      "market_value": 9946775,
+      "daily_change": -233673,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "F. Bernal",
+      "market_value": 12539517,
+      "daily_change": -237009,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Olmo",
+      "market_value": 48062749,
+      "daily_change": -237596,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "M. Sarr",
+      "market_value": 8061608,
+      "daily_change": -243018,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Zubeldia",
+      "market_value": 9192939,
+      "daily_change": -250990,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Foyth",
+      "market_value": 10522894,
+      "daily_change": -254227,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Lejeune",
+      "market_value": 17445648,
+      "daily_change": -258566,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Rubén García",
+      "market_value": 12289828,
+      "daily_change": -260252,
+      "position": "MED",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Jauregizar",
+      "market_value": 11412151,
+      "daily_change": -262069,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Álex Balde",
+      "market_value": 9108988,
+      "daily_change": -262894,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "B. Iglesias",
+      "market_value": 10487090,
+      "daily_change": -262977,
+      "position": "DEL",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Andrés Martín",
+      "market_value": 9563933,
+      "daily_change": -275936,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Tchouaméni",
+      "market_value": 20588698,
+      "daily_change": -278511,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Dela",
+      "market_value": 17542266,
+      "daily_change": -280198,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Mandi",
+      "market_value": 10929703,
+      "daily_change": -281862,
+      "position": "DEF",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Javi Guerra",
+      "market_value": 18930196,
+      "daily_change": -283698,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Etta Eyong",
+      "market_value": 9665627,
+      "daily_change": -292070,
+      "position": "DEL",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Harvey Elliott",
+      "market_value": 10086011,
+      "daily_change": -295485,
+      "position": "MED",
+      "team": "Valencia",
+      "photo_url": null
+    },
+    {
+      "name": "Dolan",
+      "market_value": 13574989,
+      "daily_change": -311235,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Álvaro García",
+      "market_value": 16152572,
+      "daily_change": -314855,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Lo Celso",
+      "market_value": 11237437,
+      "daily_change": -315047,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Adama Traoré",
+      "market_value": 11949281,
+      "daily_change": -316270,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Aramburu",
+      "market_value": 18076614,
+      "daily_change": -317403,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Amatucci",
+      "market_value": 15513285,
+      "daily_change": -318304,
+      "position": "MED",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Gavi",
+      "market_value": 12330952,
+      "daily_change": -320263,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Bordalás",
+      "market_value": 8312827,
+      "daily_change": -325898,
+      "position": "MED",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Bryan",
+      "market_value": 12846131,
+      "daily_change": -326676,
+      "position": "DEL",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Febas",
+      "market_value": 11543523,
+      "daily_change": -330326,
+      "position": "MED",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Boyomo",
+      "market_value": 11287111,
+      "daily_change": -340276,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Enes Ünal",
+      "market_value": 14212435,
+      "daily_change": -342366,
+      "position": "DEL",
+      "team": "Getafe",
+      "photo_url": null
+    },
+    {
+      "name": "Noubi",
+      "market_value": 13745582,
+      "daily_change": -348851,
+      "position": "DEF",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Ryan",
+      "market_value": 28314201,
+      "daily_change": -355606,
+      "position": "POR",
+      "team": "Levante",
+      "photo_url": null
+    },
+    {
+      "name": "Marc Bernal",
+      "market_value": 27086036,
+      "daily_change": -359630,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Blanco",
+      "market_value": 17038672,
+      "daily_change": -361691,
+      "position": "MED",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Fran García",
+      "market_value": 27823288,
+      "daily_change": -362495,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Leo Román",
+      "market_value": 35493835,
+      "daily_change": -362514,
+      "position": "POR",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Ceballos",
+      "market_value": 16294373,
+      "daily_change": -372554,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Trent",
+      "market_value": 18970001,
+      "daily_change": -375570,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "T. Martínez",
+      "market_value": 15313457,
+      "daily_change": -380939,
+      "position": "DEL",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Comesaña",
+      "market_value": 12591812,
+      "daily_change": -381937,
+      "position": "MED",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Tenaglia",
+      "market_value": 31906478,
+      "daily_change": -385716,
+      "position": "DEF",
+      "team": "Alaves",
+      "photo_url": null
+    },
+    {
+      "name": "Mouriño",
+      "market_value": 13970256,
+      "daily_change": -390043,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Parrott",
+      "market_value": 18849597,
+      "daily_change": -390170,
+      "position": "DEL",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "A. Batalla",
+      "market_value": 13061690,
+      "daily_change": -394590,
+      "position": "POR",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Ratiu",
+      "market_value": 20201581,
+      "daily_change": -411712,
+      "position": "DEF",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Yeremay",
+      "market_value": 23009485,
+      "daily_change": -416368,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    },
+    {
+      "name": "Kubo",
+      "market_value": 16502335,
+      "daily_change": -423584,
+      "position": "MED",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Stassin",
+      "market_value": 14098484,
+      "daily_change": -423682,
+      "position": "DEL",
+      "team": "Sevilla",
+      "photo_url": null
+    },
+    {
+      "name": "Pathé I. Ciss",
+      "market_value": 23132073,
+      "daily_change": -448665,
+      "position": "MED",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Hjulmand",
+      "market_value": 18338508,
+      "daily_change": -454790,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Isco",
+      "market_value": 35423953,
+      "daily_change": -471953,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Gabriel Jesus",
+      "market_value": 22501686,
+      "daily_change": -475165,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "C. Romero",
+      "market_value": 17610509,
+      "daily_change": -479500,
+      "position": "DEF",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Jon Martin",
+      "market_value": 20937887,
+      "daily_change": -481966,
+      "position": "DEF",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Dmitrovic",
+      "market_value": 37875141,
+      "daily_change": -482996,
+      "position": "POR",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Eric",
+      "market_value": 42014535,
+      "daily_change": -489803,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "De Frutos",
+      "market_value": 20536335,
+      "daily_change": -496104,
+      "position": "DEL",
+      "team": "Rayo Vallecano",
+      "photo_url": null
+    },
+    {
+      "name": "Edu Expósito",
+      "market_value": 30120267,
+      "daily_change": -503675,
+      "position": "MED",
+      "team": "Espanyol",
+      "photo_url": null
+    },
+    {
+      "name": "Courtois",
+      "market_value": 57226161,
+      "daily_change": -514994,
+      "position": "POR",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Iñigo Vicente",
+      "market_value": 30526896,
+      "daily_change": -524599,
+      "position": "DEL",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Remiro",
+      "market_value": 34406615,
+      "daily_change": -533921,
+      "position": "POR",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Larrubia",
+      "market_value": 20834545,
+      "daily_change": -542253,
+      "position": "MED",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Kounde",
+      "market_value": 22515930,
+      "daily_change": -547595,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Unai Simón",
+      "market_value": 45417731,
+      "daily_change": -550598,
+      "position": "POR",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Mikautadze",
+      "market_value": 47052678,
+      "daily_change": -555007,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Marc Pubill",
+      "market_value": 37289056,
+      "daily_change": -560434,
+      "position": "DEF",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Oyarzabal",
+      "market_value": 47178125,
+      "daily_change": -562497,
+      "position": "DEL",
+      "team": "Real Sociedad",
+      "photo_url": null
+    },
+    {
+      "name": "Chupe",
+      "market_value": 20138566,
+      "daily_change": -571766,
+      "position": "DEL",
+      "team": "Malaga",
+      "photo_url": null
+    },
+    {
+      "name": "Iñaki Williams",
+      "market_value": 34671392,
+      "daily_change": -574094,
+      "position": "DEL",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Dumfries",
+      "market_value": 27008395,
+      "daily_change": -581652,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Júnior R.",
+      "market_value": 19921933,
+      "daily_change": -582531,
+      "position": "POR",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Marcos Alonso",
+      "market_value": 26904427,
+      "daily_change": -586639,
+      "position": "DEF",
+      "team": "Celta Vigo",
+      "photo_url": null
+    },
+    {
+      "name": "Canales",
+      "market_value": 24787177,
+      "daily_change": -590930,
+      "position": "MED",
+      "team": "Racing Santander",
+      "photo_url": null
+    },
+    {
+      "name": "Bernardo Silva",
+      "market_value": 33898917,
+      "daily_change": -593751,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Fornals",
+      "market_value": 39864783,
+      "daily_change": -616713,
+      "position": "MED",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Pau Cubarsí",
+      "market_value": 59528357,
+      "daily_change": -623171,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Catena",
+      "market_value": 27033417,
+      "daily_change": -628076,
+      "position": "DEF",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Julián Alvarez",
+      "market_value": 37141294,
+      "daily_change": -641019,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Sergio Herrera",
+      "market_value": 27149035,
+      "daily_change": -653335,
+      "position": "POR",
+      "team": "Osasuna",
+      "photo_url": null
+    },
+    {
+      "name": "Bellingham",
+      "market_value": 118302643,
+      "daily_change": -721903,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Gerard",
+      "market_value": 35712410,
+      "daily_change": -752705,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Gerard Martín",
+      "market_value": 44216554,
+      "daily_change": -756892,
+      "position": "DEF",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Pedri",
+      "market_value": 89817688,
+      "daily_change": -760341,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "O. Sancet",
+      "market_value": 38971758,
+      "daily_change": -815357,
+      "position": "MED",
+      "team": "Athletic Club",
+      "photo_url": null
+    },
+    {
+      "name": "Barrios",
+      "market_value": 37596489,
+      "daily_change": -848727,
+      "position": "MED",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Cucurella",
+      "market_value": 47858711,
+      "daily_change": -888948,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Lookman",
+      "market_value": 40153537,
+      "daily_change": -902019,
+      "position": "DEL",
+      "team": "Atletico Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Konaté",
+      "market_value": 33695034,
+      "daily_change": -940601,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Bartra",
+      "market_value": 33586961,
+      "daily_change": -984553,
+      "position": "DEF",
+      "team": "Real Betis",
+      "photo_url": null
+    },
+    {
+      "name": "Vini Jr.",
+      "market_value": 95415947,
+      "daily_change": -1170585,
+      "position": "DEL",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Pepe",
+      "market_value": 50617874,
+      "daily_change": -1197858,
+      "position": "DEL",
+      "team": "Villarreal",
+      "photo_url": null
+    },
+    {
+      "name": "Huijsen",
+      "market_value": 46517944,
+      "daily_change": -1298960,
+      "position": "DEF",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Gordon",
+      "market_value": 70895213,
+      "daily_change": -1368973,
+      "position": "DEL",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Joan García",
+      "market_value": 59421032,
+      "daily_change": -1369463,
+      "position": "POR",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Fermín",
+      "market_value": 96933429,
+      "daily_change": -1392567,
+      "position": "MED",
+      "team": "Barcelona",
+      "photo_url": null
+    },
+    {
+      "name": "Valverde",
+      "market_value": 55539555,
+      "daily_change": -1499253,
+      "position": "MED",
+      "team": "Real Madrid",
+      "photo_url": null
+    },
+    {
+      "name": "Aubameyang",
+      "market_value": 97677715,
+      "daily_change": -2876678,
+      "position": "DEL",
+      "team": "Deportivo La Coruna",
+      "photo_url": null
+    }
+  ]
 }
