@@ -1,27 +1,39 @@
 import json
 import urllib.request
+import ssl
+import time
 from datetime import datetime
 
 OUTPUT_FILE = "mercado_fantasy.json"
 
 def fetch_market():
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Conectando con los datos de LaLiga Fantasy...")
-    
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Conectando con LaLiga Fantasy...")
     url = "https://www.analiticafantasy.com/mercado"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "es-ES,es;q=0.9"
     }
-    
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        html = resp.read().decode("utf-8", errors="ignore")
 
-    # Mapeo de IDs de posición oficial
+    # Contexto SSL para evitar errores de certificados en runners de GitHub
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
+    html = ""
+    for attempt in range(1, 4):
+        try:
+            print(f"Intento {attempt} de conexión...")
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, context=ctx, timeout=25) as resp:
+                html = resp.read().decode("utf-8", errors="ignore")
+            if "initialPlayers" in html:
+                break
+        except Exception as e:
+            print(f"Aviso en intento {attempt}: {e}")
+            time.sleep(2)
+
     pos_map = {1: "POR", 2: "DEF", 3: "MED", 4: "DEL"}
-
-    # Extraer el array de jugadores
     players = []
     idx = html.find("initialPlayers")
     if idx != -1:
@@ -36,7 +48,6 @@ def fetch_market():
                 if depth == 0:
                     end = i + 1
                     break
-        
         raw_json = html[start:end].replace('\\"', '"').replace('\\\\', '\\')
         try:
             data = json.loads(raw_json)
@@ -47,7 +58,6 @@ def fetch_market():
                 team = p.get("teamName", "LaLiga")
                 pos_id = p.get("positionId", 3)
                 photo = p.get("playerPhotoUrl")
-
                 if name and val > 0:
                     players.append({
                         "name": name,
@@ -58,7 +68,11 @@ def fetch_market():
                         "photo_url": photo
                     })
         except Exception as e:
-            print(f"Error al decodificar: {e}")
+            print(f"Error al decodificar JSON: {e}")
+
+    if not players:
+        print("⚠️ No se pudieron extraer jugadores.")
+        return
 
     feed_data = {
         "updated_at": datetime.now().isoformat(),
