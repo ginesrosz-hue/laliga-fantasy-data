@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Instalar Python
         uses: actions/setup-python@v5
@@ -27,7 +29,12 @@ jobs:
 
       - name: Guardar y subir mercado_fantasy.json al repositorio
         run: |
-          git config --global user.name "LaLigaBot"
-          git config --global user.email "bot@fantasy.github.internal"
+          git config user.name "LaLigaBot"
+          git config user.email "bot@fantasy.github.internal"
           git add mercado_fantasy.json
-          git diff --staged --quiet || (git commit -m "Auto-actualización mercado [$(date +'%d/%m/%Y %H:%M')]" && git push)
+          if git diff --staged --quiet; then
+            echo "No hay cambios para subir"
+          else
+            git commit -m "Auto-actualización mercado [$(date +'%d/%m/%Y %H:%M')]"
+            git push origin HEAD:main
+          fi
