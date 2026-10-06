@@ -2,8 +2,10 @@ name: Actualización Diaria LaLiga Fantasy
 
 on:
   schedule:
-    # 05:05 UTC corresponde a las 07:05 AM en hora peninsular de España
-    - cron: '5 5 * * *'
+    # Varios disparadores escalonados a partir de las 05:00 UTC (07:00 AM hora de España)
+    - cron: '0 5 * * *'
+    - cron: '15 5 * * *'
+    - cron: '30 5 * * *'
   # Permite ejecutar el bot manualmente pulsando un botón
   workflow_dispatch:
 
