@@ -1,7 +1,9 @@
 import json
 import urllib.request
 import ssl
+import gzip
 import time
+import sys
 from datetime import datetime
 
 OUTPUT_FILE = "mercado_fantasy.json"
@@ -15,7 +17,6 @@ def fetch_market():
         "Accept-Language": "es-ES,es;q=0.9"
     }
 
-    # Contexto SSL para evitar errores de certificados en runners de GitHub
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
@@ -26,7 +27,12 @@ def fetch_market():
             print(f"Intento {attempt} de conexión...")
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, context=ctx, timeout=25) as resp:
-                html = resp.read().decode("utf-8", errors="ignore")
+                raw_data = resp.read()
+                # Descompresión automática si el servidor responde con GZIP
+                if resp.headers.get("Content-Encoding") == "gzip" or raw_data[:2] == b"\x1f\x8b":
+                    raw_data = gzip.decompress(raw_data)
+                html = raw_data.decode("utf-8", errors="ignore")
+            
             if "initialPlayers" in html:
                 break
         except Exception as e:
@@ -71,8 +77,8 @@ def fetch_market():
             print(f"Error al decodificar JSON: {e}")
 
     if not players:
-        print("⚠️ No se pudieron extraer jugadores.")
-        return
+        print("❌ Error: No se pudieron extraer futbolistas.")
+        sys.exit(1)
 
     feed_data = {
         "updated_at": datetime.now().isoformat(),
@@ -84,7 +90,7 @@ def fetch_market():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(feed_data, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ ¡Completado con éxito! Se han extraído {len(players)} futbolistas.")
+    print(f"✅ ¡Éxito total! Se han guardado {len(players)} futbolistas en {OUTPUT_FILE}.")
 
 if __name__ == "__main__":
     fetch_market()
