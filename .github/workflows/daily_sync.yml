@@ -33,6 +33,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git status
           git add mercado_fantasy.json
-          git commit -m "Auto-actualización mercado $(date +'%d/%m/%Y %H:%M')" || echo "Sin cambios nuevos"
+          git commit -m "Auto-actualización mercado $(date +'%d/%m/%Y %H:%M')"
           git push origin main
